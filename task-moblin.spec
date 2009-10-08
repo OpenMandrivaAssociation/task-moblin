@@ -1,7 +1,6 @@
 Name:    	task-moblin
 Version: 	2.1
 Release: 	%mkrel 2
-Epoch:		1
 Summary: 	Metapackage for the Moblin experience
 Group:   	Graphical desktop/Other
 License:	Various
