@@ -1,6 +1,6 @@
 Name:    	task-moblin
 Version: 	2.1
-Release: 	%mkrel 2
+Release: 	%mkrel 3
 Summary: 	Metapackage for the Moblin experience
 Group:   	Graphical desktop/Other
 License:	Various
@@ -16,7 +16,6 @@ Requires:	moblin-mutter
 Requires:	moblin-session
 Requires:	moblin-user-skel
 Requires:	moblin-web-browser
-Requires:	libgconnman0
 Requires:	connman
 Requires:	bisho
 Requires:	carrick-ng
