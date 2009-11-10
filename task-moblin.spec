@@ -1,6 +1,6 @@
 Name:    	task-moblin
 Version: 	2.1
-Release: 	%mkrel 4
+Release: 	%mkrel 5
 Summary: 	Metapackage for the Moblin experience
 Group:   	Graphical desktop/Other
 License:	Various
@@ -26,6 +26,8 @@ Requires:	hornsey
 Requires:	dates
 Requires:	contacts
 Requires:	empathy
+Requires:	bluez-pin
+Requires:	libxulrunner = 1.9.1.4
 
 Suggests:	gdm
 
