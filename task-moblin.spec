@@ -1,6 +1,6 @@
 Name:    	task-moblin
 Version: 	2.1
-Release: 	%mkrel 6
+Release: 	%mkrel 7
 Summary: 	Metapackage for the Moblin experience
 Group:   	Graphical desktop/Other
 License:	Various
@@ -29,6 +29,7 @@ Requires:	empathy
 Requires:	bluez-pin
 
 Suggests:	gdm
+Suggests:	halevt-user
 
 %description
 Moblin is an open source project focused on building a Linux-based
