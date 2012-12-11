@@ -51,3 +51,41 @@ dependencies for Moblin development environment.
 %files
 
 %files devel
+
+
+%changelog
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 2.1-8mdv2011.0
++ Revision: 615112
+- the mass rebuild of 2010.1 packages
+
+* Mon Dec 21 2009 Olivier Blin <oblin@mandriva.com> 2.1-7mdv2010.1
++ Revision: 480569
+- use halevt-user for removable automount
+
+* Fri Nov 13 2009 Caio Begotti <caio1982@mandriva.org> 2.1-6mdv2010.1
++ Revision: 465783
+- fix requires for teuf
+
+* Tue Nov 10 2009 Caio Begotti <caio1982@mandriva.org> 2.1-5mdv2010.1
++ Revision: 464256
+- fix requires for dams <3
+
+* Wed Oct 21 2009 Olivier Blin <oblin@mandriva.com> 2.1-4mdv2010.0
++ Revision: 458519
+- suggest gdm
+
+* Tue Oct 13 2009 Olivier Blin <oblin@mandriva.com> 2.1-3mdv2010.0
++ Revision: 457123
+- do not require unused libgconnman0
+  (and the name was invalid on x86_64, #54536)
+
+* Thu Oct 08 2009 Olivier Blin <oblin@mandriva.com> 2.1-2mdv2010.0
++ Revision: 456091
+- remove incorrect epoch
+- require empathy
+
+* Wed Oct 07 2009 Caio Begotti <caio1982@mandriva.org> 1:2.1-1mdv2010.0
++ Revision: 455736
+- imported package task-moblin
+
+
