@@ -4,7 +4,7 @@ Release: 	%mkrel 8
 Summary: 	Metapackage for the Moblin experience
 Group:   	Graphical desktop/Other
 License:	Various
-URL:		http://www.moblin.org
+URL:		https://www.moblin.org
 BuildArch:	noarch
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-buildroot
 
@@ -42,7 +42,7 @@ minimal dependencies for running a minimal Moblin environment.
 %package devel
 Summary:	Moblin development metapackage
 Group:		Development/Other
-Url:		http://www.moblin.org
+Url:		https://www.moblin.org
 
 %description devel
 This package is a meta-package, meaning that its purpose is to contain
